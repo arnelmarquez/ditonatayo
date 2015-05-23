@@ -71,7 +71,7 @@ a:hover{
 <div style="width:100%; text-align:center;">
     <div style="width:100%; height:80px; text-align:left; display:block;">
         <a href="/index.php"><img src="/images/logo-small.jpg" alt="dito na tayo" style=" height:80px; float:left; margin-right:15px; margin-top:-30px;" border="0" /></a>
-        <form action="/result.php" id="cse-search-box">
+        <form action="result.php" id="cse-search-box">
           <div style="margin: auto 0; float:left; width:80%;">
             <input type="hidden" name="cx" value="partner-pub-7795143638096204:9539633717" />
             <input type="hidden" name="cof" value="FORID:10" />
