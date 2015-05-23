@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="google-site-verification" content="SirOsqrHyysUoeGyVFgK1N4qfQR-Sw39IqjSCgxG9kI" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<link rel="shortcut icon" href="images/logo.jpg">
+<link rel="shortcut icon" href="http://search.ditonatayo.com/images/logo.jpg">
 <title>DitoNaTayo.com Search on the Web</title>
 
 <!-- Google Analytics -->
@@ -70,7 +70,7 @@ a:hover{
 
 <div style="width:100%; text-align:center;">
     <div style="width:100%; height:80px; text-align:left; display:block;">
-        <a href="/index.php"><img src="/images/logo-small.jpg" alt="dito na tayo" style=" height:80px; float:left; margin-right:15px; margin-top:-30px;" border="0" /></a>
+        <a href="/index.php"><img src="http://search.ditonatayo.com/images/logo-small.jpg" alt="dito na tayo" style=" height:80px; float:left; margin-right:15px; margin-top:-30px;" border="0" /></a>
         <form action="result.php" id="cse-search-box">
           <div style="margin: auto 0; float:left; width:80%;">
             <input type="hidden" name="cx" value="partner-pub-7795143638096204:9539633717" />
@@ -101,24 +101,6 @@ a:hover{
 
 </div>
 
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 956710688;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/956710688/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
 
 </body>
 </html>
