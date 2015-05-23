@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="google-site-verification" content="SirOsqrHyysUoeGyVFgK1N4qfQR-Sw39IqjSCgxG9kI" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<link rel="shortcut icon" href="favicon.ico">
+<link rel="shortcut icon" href="images/logo.jpg">
 <title>DitoNaTayo.com Search on the Web</title>
 
 <!-- Google Analytics -->
@@ -61,9 +61,6 @@ a:hover{
 	margin:5px 0;
 }
 </style>
-
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f3f9dc36c56bd9b" async="async"></script>
 
 </head>
 
